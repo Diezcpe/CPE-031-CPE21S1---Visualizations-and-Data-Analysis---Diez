@@ -1,7 +1,7 @@
 # CPE 031-CPE21S1 - Visualizations and Data Analysis - Diez
 
 ## Student Information
-- *Name:* Joshua Alvarez
+- *Name:* Diez, Angela May R.
 - *Section:* CPE21S1
 
 ## Description
