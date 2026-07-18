@@ -4,7 +4,7 @@
 
 ## Student Information
 
-| **Field**         | **Details**                |
+| **Detail**         | **Information**                |
 |-------------------|----------------------------|
 | **Name**          | Diez, Angela May R.        |
 | **Section**       | CPE2151                    |
